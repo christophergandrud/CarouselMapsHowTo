@@ -23,8 +23,6 @@ github:
 
 ### I like using [googleVis](http://code.google.com/p/google-motion-charts-with-r/) in R to quickly create nice interactive [Google Geomaps](https://developers.google.com/chart/interactive/docs/gallery/geomap).
 
-TEST
-
 ---
 
 ## Example: Single Time Map
