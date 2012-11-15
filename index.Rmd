@@ -61,6 +61,8 @@ github:
 
 - Growth in [US Walmart stores](http://rstats.wordpress.com/2011/03/15/visualizing-store-growth/).
 
+- [Life expectancy with googleVis](http://lamages.blogspot.co.uk/2012/03/change-in-life-expectancy-animated-with.html) This example gives an alternative way to do what we are doing here.
+
 ---
 
 ## Current Tools
